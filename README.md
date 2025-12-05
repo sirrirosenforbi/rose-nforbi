@@ -25,7 +25,7 @@
   
   ```javascript
          console.log (" hello ")
-  this code was created by[ yves dylan ](http;/example.com 
+  this code was created by[ yves dylan](http;/example.com)
   
     _WEB
   
