@@ -23,7 +23,7 @@
   ``` cmd
        git clone < url >
   ```javascript
-         console.log (`` hello ``)
+         console.log (" hello ")
   
   
     _WEB
