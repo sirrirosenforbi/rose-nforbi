@@ -8,7 +8,7 @@
 
 
 
-#### SIRRI ROSE
+#### --- SIRRI ROSE
 
 
 ##### SIRRI ROSE
@@ -22,6 +22,7 @@
   `< h1 >`
   ``` cmd
        git clone < url >
+  
   ```javascript
          console.log (" hello ")
   
