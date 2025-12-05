@@ -24,8 +24,8 @@
        git clone < url >
   
   ```javascript
-         console.log (" hello ")
-  This code was created by [yvesdylane](http://example.com)
+         console.log (" hello ")  
+  This code was created by [ yvesdylane ](http://example.com)
   
     _WEB
   
