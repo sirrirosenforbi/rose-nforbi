@@ -16,12 +16,15 @@ A Passionate    **Software Engineer**  from Cameroon,studying at **YIBs** (Yaoun
   ## Contact me with
   *   **GitHub:**  [https://github.com/sirrirosenforbi/rose-nforbi.git]
    * **LinkedIn:** [www.linkedin.com/in/swww.linkedin.com/in/irri-rose-0a4521399]
-    *    **Email:** (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
+   * **Email** (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
+
+     ---
      
  ## Mentors
  **Sir kanjo:**[https://github.com/Kanjo-Elkamira-Ndi/Github101SWESouth.git]
  **SUG**[https://github.com/Angelcode-Coder]
- 
+ * **senior**[https://github.com/chestlyace]
+ * **lecturer**[https://github.com/alfredlandry25-pixel]
 
 
 
@@ -30,7 +33,7 @@ A Passionate    **Software Engineer**  from Cameroon,studying at **YIBs** (Yaoun
 
 
 ### SIRE ROSE
-
+pixel
 ---
 
 ####  SIRRI ROSE
