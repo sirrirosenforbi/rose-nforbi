@@ -1,4 +1,20 @@
-I am **SIRRI ROSE**
+# Hi there, I'm [SIRRI ROSE M.]
+##About me
+A Passionate **Software Engineer** from Cameroon,studying at YIBs(Yaounde International Business School) and exploring full-stack development.
+##Skills $ Tools
+* **Languages:**Javascript
+*  **Tools:Git,Trello.
+*  **Interest:**Full-stack dev,AI intergration, Open;-sourcecontributions.
+
+
+
+
+
+
+
+
+
+
 
 
 ## SIRRI ROSE
