@@ -4,7 +4,12 @@ A Passionate   **Software Engineer**   from Cameroon,studying at **YIBs**(Yaound
 ## Skills $ Tools 
 -   **Languages:** Javascript,HTML/CSS.  
 -   **Tools:** Git,Trello.  
--    **Interest:** Full-stack dev,AI intergration, Open;-sourcecontributions.  
+-    **Interest:** Full-stack dev,AI intergration, Open;-sourcecontributions.
+  ## Contact me with
+  * [GitHub]
+  * [LinkedIn]
+  * Email: (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
+  
 
 
 
