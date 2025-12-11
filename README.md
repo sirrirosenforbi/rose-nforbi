@@ -7,7 +7,7 @@ A Passionate   **Software Engineer**   from Cameroon,studying at **YIBs**(Yaound
 -    **Interest:** Full-stack dev,AI intergration, Open;-sourcecontributions.
   ## Contact me with
   * **GitHub:**  [https://github.com/sirrirosenforbi/rose-nforbi.git]
-  * **LinkedIn:**
+  * **LinkedIn:**[
   * **Email:** (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
   
 
