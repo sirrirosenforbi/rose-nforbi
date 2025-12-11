@@ -1,4 +1,4 @@
-# Hi there, I'm [SIRRI ROSE M.]
+Hi there, I'm **sirri rose m.**
 ## About me
 A Passionate   **Software Engineer**   from Cameroon,studying at **YIBs**(Yaounde International Business School) and exploring full-stack development.  
 ## Skills $ Tools 
@@ -7,7 +7,7 @@ A Passionate   **Software Engineer**   from Cameroon,studying at **YIBs**(Yaound
 -    **Interest:** Full-stack dev,AI intergration, Open;-sourcecontributions.
   ## Contact me with
   *   **GitHub:**  [https://github.com/sirrirosenforbi/rose-nforbi.git]
-    * **LinkedIn:** [www.linkedin.com/in/swww.linkedin.com/in/irri-rose-0a4521399]
+   * **LinkedIn:** [www.linkedin.com/in/swww.linkedin.com/in/irri-rose-0a4521399]
     *    **Email:** (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
   
 
