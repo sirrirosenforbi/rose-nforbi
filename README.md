@@ -6,9 +6,9 @@ A Passionate   **Software Engineer**   from Cameroon,studying at **YIBs**(Yaound
 -   **Tools:** Git,Trello.  
 -    **Interest:** Full-stack dev,AI intergration, Open;-sourcecontributions.
   ## Contact me with
-  * GitHub: (github.com/sirrirosenforbi/rose-nforbi.git) [https://github.com/sirrirosenforbi/rose-nforbi.git]
-  * [LinkedIn]
-  * Email: (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
+  * **GitHub:**  [https://github.com/sirrirosenforbi/rose-nforbi.git]
+  * **LinkedIn:**
+  * **Email:** (sirrirose77@gmail.com)[mailto:sirrirose77@gmail.com]
   
 
 
