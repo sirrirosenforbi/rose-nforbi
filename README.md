@@ -1,4 +1,4 @@
-Hi there, I'm **sirri rose m.**
+#3irri rose m.**
 ## About me
 A Passionate   **Software Engineer**   from Cameroon,studying at **YIBs**(Yaounde International Business School) and exploring full-stack development.  
 ## Skills $ Tools 
