@@ -22,42 +22,17 @@ A Passionate    **Software Engineer**  from Cameroon,studying at **YIBs** (Yaoun
      
  ## Mentors
 * **Sir kanjo:**[https://github.com/Kanjo-Elkamira-Ndi/Github101SWESouth.git] 
-  * **SUG**[https://github.com/Angelcode-Coder]
+ * **SUG**[https://github.com/Angelcode-Coder]
  * **senior**[https://github.com/chestlyace]
  * **lecturer**[https://github.com/alfredlandry25-pixel]
+   
+          ---
+      ## Projects   
+   
+
+
+ 
 
 
 
-
-## SIRRI ROSE
-
-
-### SIRE ROSE
-pixel
----
-
-####  SIRRI ROSE
-
-
-##### SIRRI ROSE
-* PROGRAMMING *
-** PROGRAMMING **
-*** PROGRAMMING ***
-
-  > WEB
-  >> WEBSITE
-  
-  `< h1 >`
-  ``` cmd
-       git clone < url >
-  
-  ```javascript
-         console.log (" hello ")  
-  This code was created by [ yvesdylane ](http://example.com)
-  
-    _WEB
-  
-
-
-
-###### SIRRI ROSE
+###### SIRRI ROS
