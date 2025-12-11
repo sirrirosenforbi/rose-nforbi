@@ -21,8 +21,8 @@ A Passionate    **Software Engineer**  from Cameroon,studying at **YIBs** (Yaoun
      ---
      
  ## Mentors
- **Sir kanjo:**[https://github.com/Kanjo-Elkamira-Ndi/Github101SWESouth.git]
- **SUG**[https://github.com/Angelcode-Coder]
+* **Sir kanjo:**[https://github.com/Kanjo-Elkamira-Ndi/Github101SWESouth.git] 
+  * **SUG**[https://github.com/Angelcode-Coder]
  * **senior**[https://github.com/chestlyace]
  * **lecturer**[https://github.com/alfredlandry25-pixel]
 
