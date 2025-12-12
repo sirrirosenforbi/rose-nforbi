@@ -31,3 +31,6 @@ A Passionate    **Software Engineer**  from Cameroon,studying at **YIBs** (Yaoun
 1. **project 1:[my porfolio]
    * **Description:**
    *  **link:**[gitHub repo](https://github.com/sirrirosenforbi/web-assigment-project.git)
+2.  **project 2:** [group work]
+   * **description**
+   *  **link** [github repo] (https://github.com/salif664/group-7.git)
